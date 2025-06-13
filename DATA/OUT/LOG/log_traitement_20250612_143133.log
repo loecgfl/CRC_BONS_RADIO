@@ -1,0 +1,26 @@
+2025-06-12 14:31:33,735 - INFO - Démarrage du traitement RECIST
+2025-06-12 14:31:38,123 - INFO - Fichier source archivé dans : DATA/OUT/ARCHIVES/RECIST_20250612_143138.xlsx
+2025-06-12 14:31:38,914 - INFO - Fusion réussie. Log des nouvelles lignes ajouté : log_lignes_ajoutees.csv
+2025-06-12 14:31:38,964 - INFO - Fichier fusionné archivé dans : DATA/OUT/ARCHIVES/RECISTS_FUSIONNES_20250612_143138.xlsx
+2025-06-12 14:31:39,014 - INFO - Fichier RECIST.xlsx écrasé avec succès par RECIST_FUSIONNE.xlsx
+2025-06-12 14:31:39,016 - INFO - Fichier supprimé avec succès : RECISTS_FUSIONNES.xlsx
+2025-06-12 14:43:45,480 - INFO - Fichier source archivé dans : DATA/OUT/ARCHIVES/RECIST_20250612_144345.xlsx
+2025-06-12 14:43:46,288 - INFO - Fusion réussie. Log des nouvelles lignes ajouté : log_lignes_ajoutees.csv
+2025-06-12 14:43:46,336 - INFO - Fichier fusionné archivé dans : DATA/OUT/ARCHIVES/RECISTS_FUSIONNES_20250612_144345.xlsx
+2025-06-12 14:43:46,383 - INFO - Fichier RECIST.xlsx écrasé avec succès par RECIST_FUSIONNE.xlsx
+2025-06-12 14:43:46,385 - INFO - Fichier supprimé avec succès : RECISTS_FUSIONNES.xlsx
+2025-06-12 14:44:54,574 - INFO - Fichier source archivé dans : DATA/OUT/ARCHIVES/RECIST_20250612_144454.xlsx
+2025-06-12 14:44:55,238 - INFO - Fusion réussie. Log des nouvelles lignes ajouté : log_lignes_ajoutees.csv
+2025-06-12 14:44:55,276 - INFO - Fichier fusionné archivé dans : DATA/OUT/ARCHIVES/RECISTS_FUSIONNES_20250612_144454.xlsx
+2025-06-12 14:44:55,319 - INFO - Fichier RECIST.xlsx écrasé avec succès par RECIST_FUSIONNE.xlsx
+2025-06-12 14:44:55,321 - ERROR - Fichier non trouvé : RECISTS_FUSIONNES.xlsx
+2025-06-12 14:49:09,756 - INFO - Fichier source archivé dans : DATA/OUT/ARCHIVES/RECIST_20250612_144909.xlsx
+2025-06-12 14:49:10,639 - INFO - Fusion réussie. Log des nouvelles lignes ajouté : log_lignes_ajoutees.csv
+2025-06-12 14:49:10,683 - INFO - Fichier fusionné archivé dans : DATA/OUT/ARCHIVES/RECISTS_FUSIONNES_20250612_144909.xlsx
+2025-06-12 14:49:10,732 - INFO - Fichier RECIST.xlsx écrasé avec succès par RECIST_FUSIONNE.xlsx
+2025-06-12 14:49:10,734 - INFO - Fichier supprimé avec succès : RECISTS_FUSIONNES.xlsx
+2025-06-12 14:51:14,496 - INFO - Fichier source archivé dans : DATA/OUT/ARCHIVES/RECIST_20250612_145114.xlsx
+2025-06-12 14:51:15,254 - INFO - Fusion réussie. Log des nouvelles lignes ajouté : log_lignes_ajoutees.csv
+2025-06-12 14:51:15,296 - INFO - Fichier fusionné archivé dans : DATA/OUT/ARCHIVES/RECISTS_FUSIONNES_20250612_145114.xlsx
+2025-06-12 14:51:15,340 - INFO - Fichier RECIST.xlsx écrasé avec succès par RECIST_FUSIONNE.xlsx
+2025-06-12 14:51:15,342 - INFO - Fichier supprimé avec succès : RECISTS_FUSIONNES.xlsx
